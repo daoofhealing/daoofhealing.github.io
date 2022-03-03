@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://daoofhealing.github.io/en/</loc>
-    <lastmod>2022-02-23T20:53:48-05:00</lastmod>
+    <lastmod>2022-02-23T21:03:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://daoofhealing.github.io/en/"
+                />
+  </url><url>
+    <loc>https://daoofhealing.github.io/en/post/</loc>
+    <lastmod>2022-02-23T21:03:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://daoofhealing.github.io/zh/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daoofhealing.github.io/en/post/"
+                />
+  </url><url>
+    <loc>https://daoofhealing.github.io/en/post/tcm-vaccine/</loc>
+    <lastmod>2022-02-23T21:03:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://daoofhealing.github.io/zh/post/tcm-vaccine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daoofhealing.github.io/en/post/tcm-vaccine/"
                 />
   </url><url>
     <loc>https://daoofhealing.github.io/en/posts/</loc>

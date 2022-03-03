@@ -28,8 +28,34 @@
                 href="https://daoofhealing.github.io/zh/posts/"
                 />
   </url><url>
+    <loc>https://daoofhealing.github.io/zh/post/</loc>
+    <lastmod>2022-02-23T21:03:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daoofhealing.github.io/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://daoofhealing.github.io/zh/post/"
+                />
+  </url><url>
     <loc>https://daoofhealing.github.io/zh/release/</loc>
     <lastmod>2022-02-23T21:03:47-05:00</lastmod>
+  </url><url>
+    <loc>https://daoofhealing.github.io/zh/post/tcm-vaccine/</loc>
+    <lastmod>2022-02-23T21:03:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daoofhealing.github.io/en/post/tcm-vaccine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://daoofhealing.github.io/zh/post/tcm-vaccine/"
+                />
   </url><url>
     <loc>https://daoofhealing.github.io/zh/release/aboutdryang/</loc>
     <lastmod>2022-02-23T21:03:47-05:00</lastmod>
