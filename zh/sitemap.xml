@@ -15,6 +15,19 @@
                 href="https://daoofhealing.github.io/zh/"
                 />
   </url><url>
+    <loc>https://daoofhealing.github.io/zh/release/home/</loc>
+    <lastmod>2022-02-23T21:03:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daoofhealing.github.io/en/release/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://daoofhealing.github.io/zh/release/home/"
+                />
+  </url><url>
     <loc>https://daoofhealing.github.io/zh/posts/</loc>
     <lastmod>2022-02-23T21:03:47-05:00</lastmod>
     <xhtml:link
@@ -30,6 +43,16 @@
   </url><url>
     <loc>https://daoofhealing.github.io/zh/release/</loc>
     <lastmod>2022-02-23T21:03:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daoofhealing.github.io/en/release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://daoofhealing.github.io/zh/release/"
+                />
   </url><url>
     <loc>https://daoofhealing.github.io/zh/release/aboutdryang/</loc>
     <lastmod>2022-02-23T21:03:47-05:00</lastmod>
