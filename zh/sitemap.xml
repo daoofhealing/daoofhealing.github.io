@@ -28,34 +28,8 @@
                 href="https://daoofhealing.github.io/zh/posts/"
                 />
   </url><url>
-    <loc>https://daoofhealing.github.io/zh/post/</loc>
-    <lastmod>2022-02-23T21:03:47-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daoofhealing.github.io/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://daoofhealing.github.io/zh/post/"
-                />
-  </url><url>
     <loc>https://daoofhealing.github.io/zh/release/</loc>
     <lastmod>2022-02-23T21:03:47-05:00</lastmod>
-  </url><url>
-    <loc>https://daoofhealing.github.io/zh/post/tcm-vaccine/</loc>
-    <lastmod>2022-02-23T21:03:47-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daoofhealing.github.io/en/post/tcm-vaccine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://daoofhealing.github.io/zh/post/tcm-vaccine/"
-                />
   </url><url>
     <loc>https://daoofhealing.github.io/zh/release/aboutdryang/</loc>
     <lastmod>2022-02-23T21:03:47-05:00</lastmod>
@@ -76,8 +50,34 @@
                 href="https://daoofhealing.github.io/zh/posts/%E5%86%8D%E6%AC%A1%E5%90%91%E6%B5%B7%E5%A4%96%E5%84%BF%E7%AB%A5%E5%92%8C%E5%AD%95%E5%A6%87%E5%85%8D%E8%B4%B9%E6%B4%BE%E5%8F%91%E6%96%B0%E5%86%A0%E9%A2%84%E9%98%B2%E8%8D%AF/"
                 />
   </url><url>
+    <loc>https://daoofhealing.github.io/zh/post/</loc>
+    <lastmod>2022-02-23T21:03:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daoofhealing.github.io/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://daoofhealing.github.io/zh/post/"
+                />
+  </url><url>
     <loc>https://daoofhealing.github.io/zh/post/winter-preventive-herbs/</loc>
     <lastmod>2022-02-23T21:03:47-05:00</lastmod>
+  </url><url>
+    <loc>https://daoofhealing.github.io/zh/post/tcm-vaccine/</loc>
+    <lastmod>2022-02-23T21:03:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daoofhealing.github.io/en/post/tcm-vaccine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://daoofhealing.github.io/zh/post/tcm-vaccine/"
+                />
   </url><url>
     <loc>https://daoofhealing.github.io/zh/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
