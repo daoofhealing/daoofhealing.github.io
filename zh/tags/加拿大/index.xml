@@ -25,7 +25,7 @@
         
         <atom:modified>Wed, 23 Feb 2022 21:03:47 -0500</atom:modified>
         <guid>https://daoofhealing.github.io/zh/testimonials/t-canada-patient-1/</guid>
-        <description>Original2020-05-12 本文大概2100字 阅读需要5分钟 01 心有余悸 俗话说，女子本弱，为母则刚。新冠乌云已笼罩加拿大月余，一岁的稚嫩生命发烧，腹泻，哀鸣。**医生说</description>
+        <description>本文大概2100字 阅读需要5分钟 01 心有余悸 俗话说，女子本弱，为母则刚。新冠乌云已笼罩加拿大月余，一岁的稚嫩生命发烧，腹泻，哀鸣。**医生说如</description>
         
         <dc:creator>医行天下</dc:creator>
         <media:content url="https://daoofhealing.github.io/img/t-canada-patient-1.assets/383px-Flag_of_Canada_%28Pantone%29.svg.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -41,11 +41,11 @@
         
           
             
-              <category>患者反馈</category>
+              <category>患者反馈 Testimonials</category>
             
           
             
-              <category>个人患者反馈 testimonials</category>
+              <category>全球患者反馈 Patient Testimonials</category>
             
           
         
@@ -59,7 +59,7 @@
         
         <atom:modified>Wed, 23 Feb 2022 21:03:47 -0500</atom:modified>
         <guid>https://daoofhealing.github.io/zh/news/free-herbs-for-elderly/</guid>
-        <description>您的关注、转发，使更多人受益，是对我们最大的支持~ 免费赠送 即日起，我们给年满65岁以上、居住在海外的老人，免费赠送疫情期间一直使用的、进口免</description>
+        <description>您的关注、转发，使更多人受益，是对我们最大的支持~ 即日起，我们给年满65岁以上、居住在海外的老人，免费赠送疫情期间一直使用的、进口免煎浓缩预</description>
         
         <dc:creator>医行天下</dc:creator>
         <media:content url="https://daoofhealing.github.io/img/free-herbs-for-elderly.assets/640-16463582275992.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -131,7 +131,11 @@
         
           
             
-              <category>新闻动态</category>
+              <category>新闻 News</category>
+            
+          
+            
+              <category>新闻动态 &amp; 义工风采 News &amp; Volunteers</category>
             
           
         
@@ -217,7 +221,11 @@
         
           
             
-              <category>新闻动态</category>
+              <category>新闻 News</category>
+            
+          
+            
+              <category>新闻动态 &amp; 义工风采 News &amp; Volunteers</category>
             
           
         

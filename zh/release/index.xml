@@ -68,6 +68,22 @@
         
         
         
+          
+            
+              <category>服药须知</category>
+            
+          
+            
+              <category>素食知识</category>
+            
+          
+        
+        
+          
+            
+              <category>新冠知识及就诊 Covid Insights &amp; Consultation</category>
+            
+          
         
         
       </item>
@@ -86,6 +102,18 @@
         
         
         
+          
+            
+              <category>联系我们</category>
+            
+          
+        
+        
+          
+            
+              <category>新冠知识及就诊 Covid Insights &amp; Consultation</category>
+            
+          
         
         
       </item>
@@ -97,7 +125,7 @@
         
         <atom:modified>Wed, 23 Feb 2022 21:03:47 -0500</atom:modified>
         <guid>https://daoofhealing.github.io/zh/release/aboutherbs/</guid>
-        <description>## 药品资质 所有免费预防治疗方全部是利用高科技术，从天然植物中萃取营养素用来提高机体免疫功能，使得人体自动获得抗体，类似中药疫苗。 药厂取得GM</description>
+        <description>药品资质 所有免费预防治疗方全部是利用高科技术，从天然植物中萃取营养素用来提高机体免疫功能，使得人体自动获得抗体，类似中药疫苗。 药厂取得GMP</description>
         
         <dc:creator>医行天下</dc:creator>
         
@@ -115,7 +143,7 @@
         
         <atom:modified>Wed, 23 Feb 2022 21:03:47 -0500</atom:modified>
         <guid>https://daoofhealing.github.io/zh/release/mainpage/</guid>
-        <description>关于我们 在14个国家超过10000人次的新冠线上义诊中，杨晓峰医生及其志愿者团队送出的免费中药帮助了非常多人恢复健康。仅有两例86岁以上老人</description>
+        <description>关于我们 新冠疫情的爆发牵动全世界人民的心，不分国界不分肤色，无论是官方，还是民间都在积极组织自救和互助。加拿大执业中医师杨晓峰医生和他的义诊</description>
         
         <dc:creator>医行天下</dc:creator>
         

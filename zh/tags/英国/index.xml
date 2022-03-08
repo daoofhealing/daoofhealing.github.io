@@ -25,7 +25,7 @@
         
         <atom:modified>Wed, 23 Feb 2022 21:03:47 -0500</atom:modified>
         <guid>https://daoofhealing.github.io/zh/news/free-herbs-for-elderly/</guid>
-        <description>您的关注、转发，使更多人受益，是对我们最大的支持~ 免费赠送 即日起，我们给年满65岁以上、居住在海外的老人，免费赠送疫情期间一直使用的、进口免</description>
+        <description>您的关注、转发，使更多人受益，是对我们最大的支持~ 即日起，我们给年满65岁以上、居住在海外的老人，免费赠送疫情期间一直使用的、进口免煎浓缩预</description>
         
         <dc:creator>医行天下</dc:creator>
         <media:content url="https://daoofhealing.github.io/img/free-herbs-for-elderly.assets/640-16463582275992.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -97,7 +97,11 @@
         
           
             
-              <category>新闻动态</category>
+              <category>新闻 News</category>
+            
+          
+            
+              <category>新闻动态 &amp; 义工风采 News &amp; Volunteers</category>
             
           
         
@@ -183,7 +187,11 @@
         
           
             
-              <category>新闻动态</category>
+              <category>新闻 News</category>
+            
+          
+            
+              <category>新闻动态 &amp; 义工风采 News &amp; Volunteers</category>
             
           
         
@@ -213,11 +221,19 @@
         
           
             
-              <category>义工风采</category>
+              <category>新闻动态 &amp; 义工风采 News &amp; Volunteers</category>
             
           
             
-              <category>患者反馈</category>
+              <category>义工风采 Volunteer Stories</category>
+            
+          
+            
+              <category>患者反馈 Testimonials</category>
+            
+          
+            
+              <category>全球患者反馈 Patient Testimonials</category>
             
           
         
