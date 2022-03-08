@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tcms on 医行天下</title>
+    <link>https://daoofhealing.github.io/zh/tcm/</link>
+    <description>Recent content in Tcms on 医行天下</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://daoofhealing.github.io/zh/tcm/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>艾灸养生法</title>
+        <link>https://daoofhealing.github.io/zh/tcm/moxibustion-healing/</link>
+        <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 23 Feb 2022 21:03:47 -0500</atom:modified>
+        <guid>https://daoofhealing.github.io/zh/tcm/moxibustion-healing/</guid>
+        <description>今年是有史以来，人们对养生兴致最高的一年。这很好，因为大家终于都明白：没有健康，一切都将归于零。 平时不注意养生，关键时刻指望医生是很难的。而</description>
+        
+        <dc:creator>医行天下</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>艾灸</category>
+            
+          
+        
+        
+          
+            
+              <category>中医养生</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
