@@ -1,0 +1,7 @@
+content/en/*/img
+content/zh-cn/*/img/
+content/*/tmp/
+content/tmp/
+static/images
+
+*.bak
