@@ -1,7 +1,5 @@
-content/en/*/img
-content/zh-cn/*/img/
-content/*/tmp/
-content/tmp/
-static/images
+en/*/img
+zh-cn/*/img/
+tmp/
 
 *.bak
