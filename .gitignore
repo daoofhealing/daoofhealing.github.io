@@ -1,0 +1,5 @@
+en/*/img
+zh/*/img/
+tmp/
+
+*.bak
